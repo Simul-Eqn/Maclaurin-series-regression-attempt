@@ -1,1 +1,2 @@
-import far_from_zero_loss 
+from losses.far_from_center_loss import * 
+
